@@ -391,6 +391,11 @@ Synapse can be installed via FreeBSD Ports or Packages contributed by Brendan Mo
 Robin Lambertz has packaged Synapse for NixOS at:
 https://github.com/NixOS/nixpkgs/blob/master/nixos/modules/services/misc/matrix-synapse.nix
 
+### Cloudron
+
+Synapse can be installed with one click from the [Cloudron app catalogue](https://cloudron.io/button/org.matrix.synapse.html)
+Cloudron keeps the installed app up-to-date automatically for the user. 
+
 # Setting up Synapse
 
 Once you have installed synapse as above, you will need to configure it.
